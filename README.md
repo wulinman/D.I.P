@@ -1,3 +1,3 @@
-# DIP
-Digital Image Processing
-数字图像处理
+# DIP Homework
+## Digital Image Processing
+## 数字图像处理
